@@ -1,1 +1,1 @@
-This is an cleaned data in excel
+This is a cleaned data in excel
